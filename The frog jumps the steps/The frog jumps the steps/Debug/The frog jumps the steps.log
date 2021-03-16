@@ -1,2 +1,3 @@
 ﻿  test.c
-  The frog jumps the steps.vcxproj -> E:\代码\VS\The frog jumps the steps\Debug\The frog jumps the steps.exe
+E:\代码\github代码\-The-frog-jumps-the-steps\The frog jumps the steps\The frog jumps the steps\test.c(96,44): warning C4244: “函数”: 从“__int64”转换到“double”，可能丢失数据
+  The frog jumps the steps.vcxproj -> E:\代码\github代码\-The-frog-jumps-the-steps\The frog jumps the steps\Debug\The frog jumps the steps.exe
